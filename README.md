@@ -1,2 +1,2 @@
 # tic-tac-toe
-This is another project
+This is another project.
